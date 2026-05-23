@@ -191,9 +191,8 @@ The backend tests use Jest and Supertest to validate Express API behavior, authe
 
 GitHub Actions is configured to validate the project on push/PR. The pipeline checks backend tests, frontend builds, and Docker image builds.
 
-## Interview Highlights
 
-This project demonstrates:
+## This project demonstrates:
 
 - REST API design with Express.js
 - MongoDB schema design and indexing
